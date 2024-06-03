@@ -44,7 +44,7 @@ function Header() {
 								</div>
 								<ul className="navbar-nav justify-content-end flex-grow-1 pe_5">
 									<li className="nav-item">
-										<a className="nav-link" aria-current="page" href="/"><strong>TRANG
+										<a className="nav-link" aria-current="page" href="/"><strong>TRANG CHỦ</strong></a>
 									</li>
 									<li className="nav-item">
 										<a className="nav-link" href="explore_events.html" role="button" aria-current="page">
