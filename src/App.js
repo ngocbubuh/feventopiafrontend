@@ -18,7 +18,5 @@ function App() {
       </BrowserRouter>
       <Footer />
     </div>
-  );
-}
 
 export default App;
